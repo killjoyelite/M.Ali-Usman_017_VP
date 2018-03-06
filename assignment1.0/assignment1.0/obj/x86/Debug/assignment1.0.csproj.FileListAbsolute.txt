@@ -1,0 +1,6 @@
+c:\users\smile\documents\visual studio 2010\Projects\assignment1.0\assignment1.0\bin\Debug\assignment1.0.exe
+c:\users\smile\documents\visual studio 2010\Projects\assignment1.0\assignment1.0\bin\Debug\assignment1.0.pdb
+c:\users\smile\documents\visual studio 2010\Projects\assignment1.0\assignment1.0\obj\x86\Debug\assignment1.0.exe
+c:\users\smile\documents\visual studio 2010\Projects\assignment1.0\assignment1.0\obj\x86\Debug\assignment1.0.pdb
+C:\Users\SMile\Desktop\New folder\M.Ali-Usman_017_VP\assignment1.0\assignment1.0\obj\x86\Debug\assignment1.0.exe
+C:\Users\SMile\Desktop\New folder\M.Ali-Usman_017_VP\assignment1.0\assignment1.0\obj\x86\Debug\assignment1.0.pdb
