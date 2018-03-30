@@ -1,0 +1,12 @@
+C:\Users\SMile\Documents\Visual Studio 2010\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\SMile\Documents\Visual Studio 2010\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\SMile\Documents\Visual Studio 2010\Projects\Assignment2\Assignment2\obj\x86\Debug\Assignment2.MenuForm.resources
+C:\Users\SMile\Documents\Visual Studio 2010\Projects\Assignment2\Assignment2\obj\x86\Debug\Assignment2.New_Record.resources
+C:\Users\SMile\Documents\Visual Studio 2010\Projects\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Properties.Resources.resources
+C:\Users\SMile\Documents\Visual Studio 2010\Projects\Assignment2\Assignment2\obj\x86\Debug\Assignment2.csproj.GenerateResource.Cache
+C:\Users\SMile\Documents\Visual Studio 2010\Projects\Assignment2\Assignment2\obj\x86\Debug\Assignment2.exe
+C:\Users\SMile\Documents\Visual Studio 2010\Projects\Assignment2\Assignment2\obj\x86\Debug\Assignment2.pdb
+C:\Users\SMile\Documents\Visual Studio 2010\Projects\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Display_All.resources
+C:\Users\SMile\Documents\Visual Studio 2010\Projects\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Sorting_Cgpa.resources
+C:\Users\SMile\documents\visual studio 2010\Projects\Assignment2\Assignment2\obj\x86\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\SMile\documents\visual studio 2010\Projects\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Search_ID.resources
